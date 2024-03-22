@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DhruvSalvi
-- 👀 I’m interested in MS Power BI developer internship. 
-- 🌱 I’m currently learning Advance in power BI. 
+- 👀 I’m interested in a Data Science internship. 
+- 🌱 I’m currently learning NLP & LLP. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contact me through LinkedIn ...
 
 <!---
 DhruvSalvi/DhruvSalvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
