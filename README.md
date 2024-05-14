@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhruvSalvi
 - 👀 I’m interested in a Data Science internship. 
-- 🌱 I’m currently learning NLP & LLP. 
+- 🌱 I’m currently learning NLP & LLM. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me through LinkedIn ...
 
