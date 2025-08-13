@@ -43,7 +43,7 @@
 - Optimized UI performance & collaborated on feature enhancements.  
 
 ---
-
+<!--
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DhruvSalvi&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
@@ -53,12 +53,14 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvSalvi&theme=radical" alt="GitHub Streak" height="180" />
 </p>
-
+-->
 ---
 
 ## 📫 Connect With Me  
 <p align="left">
+<!--
 <a href="https://github.com/DhruvSalvi" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+-->
 <a href="www.linkedin.com/in/dhruv-salvi-06a2831a2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
