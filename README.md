@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Jitendra Salvi</h1>
-<h3 align="center">📊 Data Analyst | 📈 Machine Learning Enthusiast | 🧩 Problem Solver</h3>
+<h3 align="center">📊 Data Analyst | 📈 Data Engineering | 🧩 Full-Stack Developer</h3>
 
 ---
 
